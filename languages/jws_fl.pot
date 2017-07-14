@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: magtranslation\n"
+"POT-Creation-Date: 2016-10-30 16:09+0500\n"
+"PO-Revision-Date: 2016-10-30 16:58+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+
+#: floating-next-prev.php:88
+msgid "Enable Random Button."
+msgstr ""
+
+#: floating-next-prev.php:93
+msgid "Enable next previous button."
+msgstr ""
+
+#: floating-next-prev.php:105
+msgid "Enable bottom to top button."
+msgstr ""
+
+#: floating-next-prev.php:108
+msgid "Enable top to bottom button."
+msgstr ""
+
+#: floating-next-prev.php:98
+msgid "Save Changes"
+msgstr ""
+
+#: floating-next-prev.php:207
+msgid "General"
+msgstr ""
+
+#: floating-next-prev.php:226, #: admin/customizer.php:60
+msgid "Design"
+msgstr ""
+
+#: admin/customizer.php:32
+msgid "Floating Links Settings"
+msgstr ""
+
+#: admin/customizer.php:43
+msgid "Change icons"
+msgstr ""
+
+#: admin/customizer.php:45
+msgid "Chose any icon from the list below and see the magic live."
+msgstr ""
+
+#: admin/customizer.php:62
+msgid "Customize design of your fancy floating links live."
+msgstr ""
+
+#: admin/customizer.php:88
+msgid "Background colour"
+msgstr ""
+
+#: admin/customizer.php:106
+msgid "Icons colour"
+msgstr ""
+
+#: admin/customizer.php:123
+msgid "Icons hover colour"
+msgstr ""
+
+#: admin/customizer.php:140
+msgid "Icons hover background colour"
+msgstr ""
+
+#: admin/customizer.php:177
+msgid "Icons separator colour"
+msgstr ""
+
+#: admin/customizer.php:154
+msgid "Icons size"
+msgstr ""
+
+#: admin/customizer.php:167
+msgid "Select left icon."
+msgstr ""
+
+#: admin/customizer.php:182
+msgid "Select right icon."
+msgstr ""
+
+#: admin/customizer.php:182
+msgid "Select random icon."
+msgstr ""
+
+#: admin/customizer.php:195
+msgid "Select up icon."
+msgstr ""
+
+#: admin/customizer.php:206
+msgid "Select down icon."
+msgstr ""
+
+
+#: admin/admin.php:269
+msgid "Like our Facebook fan page to stay updated"
+msgstr ""
+
+#: admin/admin.php:287
+msgid "Follow me on Twitter for WP Wisdom"
+msgstr ""
+
+#: admin/admin.php:293
+msgid "Like it? Then give us 5 star rating here:"
+msgstr ""
+
+#: admin/admin.php:294
+msgid "Rate it here"
+msgstr ""
+
+#: admin/admin.php:300
+msgid "Any question? Don’t hesitate to create a support ticket here:"
+msgstr ""
+
+#: admin/admin.php:300
+msgid "Open support ticket"
+msgstr ""
+
+#: admin/admin.php:343
+msgid "Awesome, you have been using"
+msgstr ""
+
+#: admin/admin.php:344
+msgid "Floating Links"
+msgstr ""
+
+#: admin/admin.php:345
+msgid "for more than 1 week."
+msgstr ""
+
+#: admin/admin.php:346
+msgid "May I ask you to give it a"
+msgstr ""
+
+#: admin/admin.php:347
+msgid "5-star "
+msgstr ""
+
+#: admin/admin.php:348
+msgid "rating on Wordpress?"
+msgstr ""
+
+#: admin/admin.php:349
+msgid "This will help to spread its popularity and to make this plugin a better one."
+msgstr ""
+
+#: admin/admin.php:350
+msgid "Your help is much appreciated. Thank you very much. "
+msgstr ""
+
+#: admin/admin.php:351
+msgid "I Like Floating Links - It increased engagement on my site"
+msgstr ""
+
+#: admin/admin.php:352
+msgid "No, not good enough, I do not like to rate it "
+msgstr ""
